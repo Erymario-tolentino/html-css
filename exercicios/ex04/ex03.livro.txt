@@ -1,0 +1,10 @@
+ola mundo ta tudo fixe de mais malo you
+hello word how are you man yh man
+<pre>
+	<code>
+	a=int(input('digite um novo numeros: '))
+	b=int(input('digite outro numeros: '))
+	c=a+b
+	print(f'somando numero {a} e {b} e igual {c}')
+	</code>
+</pre>
